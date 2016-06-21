@@ -1,0 +1,17 @@
+python-lmdb (0.87-2) trusty; urgency=medium
+
+  * Change maintainer email address
+
+ -- Luke Yeager <lyeager@nvidia.com>  Thu, 22 Oct 2015 18:48:46 -0700
+
+python-lmdb (0.87-1) trusty; urgency=medium
+
+  * Upgrade to v0.87
+
+ -- Luke Yeager <lyeager@nvidia.com>  Thu, 22 Oct 2015 18:48:46 -0700
+
+python-lmdb (0.84-1) trusty; urgency=medium
+
+  * Initial Debian package from PyPI release tarball.
+
+ -- Daniel Dadap <ddadap@nvidia.com>  Wed, 18 March 2015 14:14:03 -0500

@@ -1,0 +1,20 @@
+Source: python-lmdb
+Section: universe/python
+Maintainer: DIGITS Development Team <digits@nvidia.com>
+Vcs-Browser: https://github.com/dw/py-lmdb
+Priority: optional
+Build-depends: debhelper (>=9), python-dev, liblmdb-dev
+Standards-Version: 3.9.5
+
+Package: python-lmdb
+Architecture: amd64
+Depends: ${misc:Depends}, ${shlibs:Depends}, python, liblmdb0
+Description: Lightning Memory-Mapped Database python bindings
+ This package provides python bindings for LMDB.
+ .
+ Lighting Memory-Mapped Database (LMDB) is an ultra-fast, ultra-compact
+ key-value embedded data store developed for the OpenLDAP Project.  It uses
+ memory-mapped files, so it has the read performance of a pure in-memory
+ database while still offering the persistence of standard disk-based
+ databases, and is only limited to the size of the virtual address space, (it
+ is not limited to the size of physical RAM).
