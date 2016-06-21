@@ -3,7 +3,7 @@ Section: universe/python
 Maintainer: DIGITS Development Team <digits@nvidia.com>
 Vcs-Browser: https://github.com/dw/py-lmdb
 Priority: optional
-Build-depends: debhelper (>=9), python-dev, liblmdb-dev
+Build-depends: debhelper (>=9), python-dev, python-setuptools, liblmdb-dev
 Standards-Version: 3.9.5
 
 Package: python-lmdb
