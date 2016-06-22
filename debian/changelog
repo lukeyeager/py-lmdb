@@ -1,3 +1,9 @@
+python-lmdb (0.87-2ppa1) UNRELEASED; urgency=medium
+
+  * PPA build
+
+ -- Luke Yeager <luke.yeager@gmail.com>  Wed, 22 Jun 2016 21:52:43 +0000
+
 python-lmdb (0.87-2) trusty; urgency=medium
 
   * Change maintainer email address
