@@ -1,8 +1,9 @@
-python-lmdb (0.87-2ppa1) UNRELEASED; urgency=medium
+python-lmdb (0.87-2ppa1) trusty; urgency=medium
 
   * PPA build
+  * Setting version
 
- -- Luke Yeager <luke.yeager@gmail.com>  Wed, 22 Jun 2016 21:52:43 +0000
+ -- Luke Yeager <luke.yeager@gmail.com>  Wed, 22 Jun 2016 23:08:20 +0000
 
 python-lmdb (0.87-2) trusty; urgency=medium
 

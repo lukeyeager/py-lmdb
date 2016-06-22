@@ -1,6 +1,6 @@
 Source: python-lmdb
 Section: universe/python
-Maintainer: DIGITS Development Team <digits@nvidia.com>
+Maintainer: Luke Yeager <luke.yeager@gmail.com>
 Vcs-Browser: https://github.com/dw/py-lmdb
 Priority: optional
 Build-depends: debhelper (>=9), python-dev, python-setuptools, liblmdb-dev
